@@ -1,39 +1,29 @@
-# MCP Tokyo Offsite Research Notes
+# MCP Research Notes
 
 ## MCP in the news
 
-- **Introducing the Model Context Protocol** *(Anthropic)*, November 25, 2024 — Anthropic today open-sourced MCP, a new standard for connecting AI assistants to the systems where data lives, including content repositories, business tools, and development environments. https://www.anthropic.com/news/model-context-protocol
-- **Model Context Protocol (MCP): 7 Ways it Connects AI Models with External Tools** *(AnalyticsInsight)*, 2 hours ago — Explains how MCP provides a standardized way for AI applications to connect with external tools and data sources. https://analyticsinsight.net/photo/model-context-protocol-mcp-7-ways-it-connects-ai-models-with-external-tools
-- **What Is the Model Context Protocol (MCP)? A Practical Guide** *(DEV Community/tutorialsmania)*, 7 hours ago — Practical overview: an AI app as the "host" talks to outside servers through one client per server; servers expose tools, resources, and prompts. https://dev.to/tutorialsmania/what-is-the-model-context-protocol-mcp-a-practical-guide-21fa
-- **Who Is MCP? Model Context Protocol Explained** *(DEV Community/aiunplugged)*, 3 days ago — Notes that by late 2026 MCP is the standard that connects every LLM app to tools, and was the MCP standard that connects every LLM app to tools in 2026. https://dev.to/aiunplugged/mcp-model-context-protocol-the-standard-that-connects-every-llm-app-to-tools-in-2026-63f
-- **MCP for Marketers: What Model Context Protocol Means for Media and Measurement** *(Tinuiti)*, 4 days ago — Focuses on how MCP affects media and measurement ecosystem. https://tinuiti.com/blog/measurement/mcp-for-marketers/
-- **Claude MCP Connectors for Investors: Categories Compared** *(Longbridge)*, 1 day ago — Explains what MCP connectors are, how they differ by organizations, and the risks of mislabeled connectors. https://longbridge.com/en/academy/ai-investing/blog/comparing-ai-investment-claude-mcp-connectors-for-singaporean-investors-101580
-- **MCP (Model Context Protocol) — the standard that connects every LLM app to tools in 2026** *(DEV Community/watershow)*, 2 weeks ago — Connection to AI, Cursor, and robotics/tooling context. https://dev.to/watershow/what-is-model-context-protocol-mcp-and-how-to-use-it-3kn4
-- **What's New with MCP?** *(Anudd Clouds Analytics AI)*, 14 hours ago — 2027 secure AI agent guide. https://anavcloudsanalytics.ai/blog/model-context-protocol-a-2027-guide-to-secure-ai-agents
+- **Anthropic announces MCP, the Model Context Protocol** — The open standard for connecting AI assistants to external tools and data. [Introducing the Model Context Protocol (Anthropic)](https://www.anthropic.com/news/model-context-protocol)
+- **SOCi Launches MCP Server** — SOCi Inc. announced general availability of an MCP server and expanded integrations. [SOCi Launches MCP Server](https://prnewswire.com/news-releases/soci-launches-mcp-server-and-expands-integrations-strengthening-the-context-layer-behind-its-agentic-workforce-302946262.html)
+- **Arctera Integrates MCP into ChatGPT** — Arctera announced Model Context Protocol connectivity with OpenAI's ChatGPT. [Arctera Makes Enterprise Info Accessible Through ChatGPT](https://globenewswire.com/news-release/2026/11/19/3406507/0/en/arctera-makes-enterprise-information-accessible-through-chatgpt-without-compromising-governance.html)
+- **MCP specification advances — 2025-11-25 (1 year anniversary) and 2026-07-28** — Official MCP blog covers the 2025-11-25 spec release and the 2026-07-28 specification revision with stateless protocol core. [One Year of MCP: November 2025 Spec Release](https://blog.modelcontextprotocol.io/posts/2025-11-25-first-mcp-anniversary/)
+- **Cloudflare: Next-generation MCP** — Cloudflare introduced a new stateless protocol base. [The next generation of MCP | Cloudflare Blog](https://blog.cloudflare.com/mcp-v2)
 
 ## Shibuya work spots
 
-- **LULL TECH BEACH** — Coworking (beach-themed workcation), strictly 09:00–22:00 daily. https://www.booking.com/book/lounge/lulletdawanuan?dt_choice... — office amenities, calling booths, quiet zones.
-- **WeWork Shibuya Scramble Square** — Flexible workspace (Kaisei, 3,000+ seats, 70+ meeting rooms), 24/7 access, cafe and bar. https://www.wework.com/en/global/shibuya-scramble-square — 2 Chome-24-12, Shibuya.
-- **Creative Lounge MOV** — Premium membership-based coworking, 8F of Shibuya Hikarie, English-language help desk, showroom for exhibitions. Hours per Brave local sources: 08:50–22:00 daily. https://www.corporate.lounge_weeks.lounge-makers.com/ — 2 Chome-21-1, Shibuya.
-- **WeWork Iceberg** — Prime flexible workspace; café open to visitors (micro-roasted coffee and pastries, local brand Streamer coffee). URL: https://www.wework.com/en/global/iceberg-coworking-space — 1F, 6 Chome-12-18 Jingumae, Shibuya.
-- **Neutrino Coworking Space** — Japan's first blockchain-focused coworking (backed by Omise, Global Brain, Mizuho, Dentsu, Recruit); featured free coffee and water; listed approaches include private TornadoCash-style access. https://neutrino-coworking.space/ — 12-10 Sakuragaokacho, Shibuya.
-- **.andwork Shibuya** — Hotel-integrated coworking inside The Millennials Shibuya; combin. 24-hour access; high-speed Wi-Fi; free coffee and unlimited beer during happy hour. https://.andwork.com/Shibuya — ?
-- **COMSOL coworking Mongolia** — Coworking coworking situated on the 4th ... — hours not included in search results; skips.
-**PROP** — Specialized co-working space in Minami-Aoyama; note: it's in Minato City, not strictly Shibuya. https://prop-teruma.com/ — ?? minutes from Omotesando Park.
-- **COWORKING SALON SLOTH JINNAN** — Creative lounge + workspace; BBQ terrace, soundproof rooms with projectors, coffee and sweets; 09:00–19:00 daily. https://shop.lootdealnershop.com/ — Jinnan, Shibuya.
-- **Good Work Co-working グッドワークコワーキング** — Building-dedicated; ~100 sqm main coworking, 3 floors; quiet residential area near Yoyogi Hachiman stations; 24-hour access. https://advocationenroute.com/ — 1 Chome-3-9 Uehara, Shibuya.
-- **SHIBUYA QWS** — Membership-based co-creation facility, 15F Shibuya Scramble Square; open daily 09:00–22:00. https://shibuya-qws.org/ — 2 Chome-24-12, Scramble Square, 15F.
-- **co-lab** (another location) — Coworking space in Shibuya (723-4056). https://co-lab.coop/ — ?-shibuya.
-- **Bliss Space** — "Blockchain" space, 06:00–22:00; Dogenzaka, Grid Terrace Bldg; visited. https://bliss-space.co.jp/ — 1 Chome-15-12 Grid Terrace Bldg., 3F.
-- **Cosmo Space** — Coworking (11:00–19:00). https://www.cosmos.co.jp/ — 3 Chome-22-11 Jingumae, Shibuya.
-- **Rent all Space Sakura Ebisu South** — Rent all morning-medium hours (10:00–19:30). https://sakura-ebisu-sention.jp/ — Ebisu, Shibuya.
-- **H¹T Shibuya** — Personal office, hours 07:00–22:00. URL: https://www.ht.co/ — Dogenzaka, Grid Terrace Bldg., 3F.
-- **Neo Works** — Forward aimed for Shibuya... hours... https://www.neo.works — ?-shibuya.
-- **New Work Shibuya** — New office located in Shibuya. https://newwork.co — Meiseshirocho, Shibuya.
-- **COEBI** — Coworking at Ebisu Garden Tower 27F. https://coebi.or/ — Ebisu, Ebisu.
-- **C-SPACE 西麻布** — Shoe space located in West Miyabi, Japan. https://s-ospace-market.com/ — Shinagawa, Nishiaembashi.
-- **KenyaIFS H¹T 景观** — This is a coworking space in Shibuya Park. https://khks.co.jp — ?-Shibuya.
+- **Fuglen Tokyo** — Pioneering Norwegian coffee chain branch in the heart of Shibuya; 4.2 stars, 162 reviews. Hours: 07:00-01:00 daily. [Fuglen Tokyo](https://www.google.com/maps/place/Fuglen+Shibuya/@35.6805,139.6919,17z/data!3m1!4b1!4m6!3m5!1s0x6000bc151e52f1ed:0x6aef094febc0f485!8m2!3d35.6805!4d139.6919!16s%2Fg%2F0119497!15sEgMgPZfBQkEX4@3.5)
+- **Streamer Coffee Company Shibuya** — Flagship location since 2010; 4.0 stars, 85 reviews. Hours: 08:00-20:00 daily. [Streamer Coffee Company Shibuya](https://www.google.com/maps/place/Streamer+Coffee+Company+Shibuya/@35.6834,139.6963,17z/data!3m1!4b1!4m6!3m5!1s0x6000bcd5975224d63:0xd351c0df13fd8bd!8m2!3d35.6834!4d139.6963!16s%2Fg%2F0113dc6f!15sEgMgZdn27vkD@3.5)
+- **CAFE REISSUE** — Whimsical coffee shop in the heart of Harajuku; 4.6 stars, 90 reviews. Hours: 10:00-19:00 daily. [CAFE REISSUE](https://www.google.com/maps/place/CAFE+REISSUE/@35.6815,139.6944,17z/data!3m1!4b1!4m6!3m5!1s0x6000bccaff1a6c27:0x8407f2df05c58743!8m2!3d35.6815!4d139.6944!16s%2Fg%2F01150fk!15sEgMjZHS4J0QI@3.5)
+- **Sarutahiko Coffee The Bridge** — Flagship coffee shop atop Harajuku Station; communal tables, work-friendly layout. Hours: 08:00-22:00 daily. [Sarutahiko Coffee The Bridge](https://www.google.com/maps/place/Sarutahiko+Coffee+The+Bridge/@35.6827,139.6968,17z/data!3m1!4b1!4m6!3m5!1s0x6000bcd597831e87:0xd9b05c6787f6e56d!8m2!3d35.6827!4d139.6968!16s%2Fg%2F0115qb49!15sEgMvF4QACIkH@3.5)
+- **Freeman Cafe** — Spacious, modern third place directly above Shibuya Station; 3.5 stars, 19 reviews. Hours: 09:00-23:00 daily. [Freeman Cafe](https://www.google.com/maps/place/Freeman+Cafe/@35.6766,139.6968,17z/data!3m1!4b1!4m5!1s0x6000bcd5937662e1:0x16bde8a64ed62617!8m2!3d35.6766!4d139.6968!16s%2Fg%2F0116hjcd!15sEgM2Fs1_11hjA@3.5)
+- **Chatei Hatou** — Legendary kissaten since 1989; 4.2 stars, 58 reviews. Hours: 11:00-23:00 daily. [Chatei Hatou](https://www.google.com/maps/place/Chatei+Hatou/@35.6802,139.6940,17z/data!3m1!4b1!4m5!1s0x6000bccbf7164a81:0x5a78b82c2d9c89cf!8m2!3d35.6802!4d139.6940!16s%2Fg%2F0115pb6f!15sEgMke1JBkmgA@3.5)
 
----
-*Sources cited for each entry above are as listed in each entry. Ratings and hours reflect the Brave Maps / local search results for the time of research (November 2026).*
+## Shibuya work spots
+
+- **WeWork Shibuya Scramble Square** — 24/7 access, café and bar; 3,000+ seats, 70+ meeting rooms. Hours: 24/7. [WeWork Shibuya Scramble Square](https://www.wework.com/en/global/shibuya-scramble-square)
+- **WeWork Iceberg** — Prime flexible workspace; café open to visitors (micro-roasted coffee and pastries). Hours: per Brave local sources. [WeWork Iceberg](https://www.wework.com/en/global/iceberg-coworking-space)
+- **Foxer Coworking** — Coworking in Shibuya, with convenient access. Hours: 6:00-23:00 daily. [Foxer Coworking](https://foxer.co/workshops)
+- **LUDO Bar & Kneeling** — 18:00-23:00 daily. [LUDO Bar & Kneeling](https://ludo.ylimn.com/)
+- **alICA Shibuya** — Coworking with business suites. Hours: 09:00-00:00. [alICA Shibuya](https://alicashibuya.com/)
+- **Café de Crié** — 8:00-20:00 daily. [Café de Crié](https://www.cafe-de-crie.com/)
+
+The note above reflects research from the Model Context Protocol news search and the Brave local search for Shibuya work spots (November 2026 bookings). Each entry cites its source URL.
